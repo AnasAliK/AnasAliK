@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi there! I'm Anas  
+### 🧠 Game Developer | 💻 Programmer | 🎮 Tech Enthusiast 
 
-<!--
-**AnasAliK/AnasAliK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate and self-driven developer with a growing background in **game development** and **3D design**. I’m currently focused on using **Unreal Engine** with **C++** to build immersive virtual experiences, and I'm exploring how to bring innovation to the **Pakistani gaming industry**.
+
+I started my tech journey by disassembling and reassembling computers, then moved to **graphic design**, **3D modeling**, and **video/photo editing**. I believe a great game starts from strong visual storytelling and clean code.
+
+---
+
+## 💡 Skills & Tools
+
+- 🕹 **Game Development**: Unreal Engine, C++, Unity (beginner)
+- 💻 **Programming**: Python, C#, C++, .NET
+- 🎨 **3D & Design**: Blender, Adobe Photoshop
+- 🌐 **Web**: HTML/CSS, WordPress, basic JavaScript
+- 🛠 **Other**: PyQt5, Git/GitHub, OBS Studio, Video Editing
+
+---
+
+
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn] (optionalabc.com)
+- 🌐 [3D World Website] 
+- 📷 [Instagram] 
+- 📧 [Email Address] 
+
+---
+
+🧠 _"Learning is a lifelong journey — I’m building the future one line of code at a time."_  
