@@ -28,8 +28,9 @@ I started my tech journey by disassembling and reassembling my own computer, the
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/anas_a1i.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_a1i.exe" height="30" width="40" /></a>
-<a href="https://discord.gg/tkXBux2N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tkXBux2N" height="30" width="40" /></a>
+<a href="https://discord.com/users/727907705662210102" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </p>
 
 
