@@ -7,7 +7,7 @@
 
 I'm a passionate and self-driven developer with a growing background in **game development** and **3D design**. I’m currently focused on using **Unreal Engine** with **C++** to build immersive virtual experiences, and I'm exploring how to bring innovation to the **Pakistani gaming industry**.
 
-I started my tech journey by disassembling and reassembling computers, then moved to **graphic design**, **3D modeling**, and **video/photo editing**. I believe a great game starts from strong visual storytelling and clean code.
+I started my tech journey by disassembling and reassembling my own computer, then moved to **graphic design**, **3D modeling**, and **video/photo editing**. I believe a great game starts from strong visual storytelling and clean code.
 
 ---
 
