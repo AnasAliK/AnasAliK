@@ -24,4 +24,4 @@ I started my tech journey by disassembling and reassembling my own computer, the
 
 
 
-🧠 _"Learning is a lifelong journey — I’m building the future one line of code at a time."_  
+🧠 _"Code is like humor. When you have to explain it, it’s bad."_  
