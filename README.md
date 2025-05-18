@@ -16,7 +16,7 @@ I started my tech journey by disassembling and reassembling my own computer, the
 
 ---
 
-## 💡 Skills & Tools
+## 💡 Skills 
 
 - 🕹 **Game Development**: Unreal Engine, C++, Unity (beginner)
 - 💻 **Programming**: Python, C#, C++, .NET
