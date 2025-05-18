@@ -15,9 +15,9 @@ I started my tech journey by disassembling and reassembling computers, then move
 
 - 🕹 **Game Development**: Unreal Engine, C++, Unity (beginner)
 - 💻 **Programming**: Python, C#, C++, .NET
-- 🎨 **3D & Design**: Blender, Adobe Photoshop
+- 🎨 **3D & Design**: 3ds Max, Blender, Adobe AE
 - 🌐 **Web**: HTML/CSS, WordPress, basic JavaScript
-- 🛠 **Other**: PyQt5, Git/GitHub, OBS Studio, Video Editing
+- 🛠 **Other**: Git/GitHub, OBS Studio, Video Editing
 
 ---
 
