@@ -23,13 +23,5 @@ I started my tech journey by disassembling and reassembling computers, then move
 
 
 
-## 📬 Let's Connect
-
-- 🔗 [LinkedIn] (optionalabc.com)
-- 🌐 [3D World Website] 
-- 📷 [Instagram] 
-- 📧 [Email Address] 
-
----
 
 🧠 _"Learning is a lifelong journey — I’m building the future one line of code at a time."_  
